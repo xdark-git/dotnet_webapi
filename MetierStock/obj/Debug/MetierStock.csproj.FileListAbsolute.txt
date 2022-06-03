@@ -1,0 +1,7 @@
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\MetierStock\bin\MetierStock.dll.config
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\MetierStock\bin\MetierStock.dll
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\MetierStock\bin\MetierStock.pdb
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\MetierStock\obj\Debug\MetierStock.csproj.AssemblyReference.cache
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\MetierStock\obj\Debug\MetierStock.csproj.CoreCompileInputs.cache
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\MetierStock\obj\Debug\MetierStock.dll
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\MetierStock\obj\Debug\MetierStock.pdb

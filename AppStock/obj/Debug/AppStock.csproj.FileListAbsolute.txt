@@ -1,0 +1,9 @@
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\bin\Debug\AppStock.exe.config
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\bin\Debug\AppStock.exe
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\bin\Debug\AppStock.pdb
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\obj\Debug\AppStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\obj\Debug\AppStock.Properties.Resources.resources
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\obj\Debug\AppStock.csproj.GenerateResource.cache
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\obj\Debug\AppStock.csproj.CoreCompileInputs.cache
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\obj\Debug\AppStock.exe
+C:\Users\konte\Desktop\isi\csharp\Projects\api\GestionStock\AppStock\obj\Debug\AppStock.pdb
